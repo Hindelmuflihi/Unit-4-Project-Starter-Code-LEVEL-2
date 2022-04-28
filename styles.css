@@ -1,0 +1,30 @@
+.Hind {
+    color:#cc0066;
+    border: 10px solid #cc6699;
+display: flex;
+justify-content: center;
+}
+
+.All {
+    color: #cc0066;
+    border:10px solid  #cc6699;
+display: flex;
+justify-content: center;
+}
+.posts{
+    color: #000000;
+    border:10px solid  #cc6699;
+display: flex;
+justify-content: center;
+}
+img {
+    width: 150px;
+}
+img {
+    width:150px;
+}
+img{ 
+    width:150px;}
+body{
+    background-color:#99ccff;
+}
